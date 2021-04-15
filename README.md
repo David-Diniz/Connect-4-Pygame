@@ -1,4 +1,4 @@
-# thing
+# Connect 4
 stuff
 this was a project I made as my course culminating activity for my grade 12 computer science class, hope you enjoy 
 This repo will contain an exe file for a connect four application, made using pygame
